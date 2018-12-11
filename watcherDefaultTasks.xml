@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value=" --update $FileName$:../css/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--update $FileName$:../css/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -12,7 +12,7 @@
       <option name="outputFilters">
         <array />
       </option>
-      <option name="outputFromStdout" value="false" />
+      <option name="outputFromStdout" value="true" />
       <option name="program" value="$USER_HOME$/AppData/Roaming/npm/sass.cmd" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
